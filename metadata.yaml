@@ -1,0 +1,27 @@
+_repo: Tales-for-Young-and-Old_10454
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: The bride's journey -- The home-wreck -- Love at first sight -- Lucy
+  Fennel -- Billy Egg -- The pledge redeemed -- The tree and the forest -- The three
+  friends -- The artist's daughter -- The blind man of Argenteuil -- The bridal wreath
+  -- The Duke of Normandy -- Dutch Anna -- The locksmith of Philadelphia.
+title: Tales for Young and Old
+url: http://www.gutenberg.org/ebooks/10454
